@@ -1,1 +1,2 @@
 # CodeQuiz
+The goal for this challenge is to create a timed quiz that will ask user code-related questions. The user has 60 seconds to complete the quiz. This quiz includes multiple choice questions. At any point, if the user selects an incorrect answer, the timer will reduce by 10 seconds. The goal is to answer as many questions correctly within 60 seconds. Users score will be stored in the browswer so they can gauge progress against other players.
